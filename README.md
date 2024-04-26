@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my Tableau projects are available at [https://public.tableau.com/app/profile/niv.levi4310/vizzes](https://public.tableau.com/app/profile/niv.levi4310/vizzes)
 
-- 📫 How to reach me **nivvlevi@gmail.com**
+- 📫 You can reach me at **nivvlevi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
