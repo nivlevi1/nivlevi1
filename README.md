@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **CyberArk**
 
-- 🌱 I’m currently learning **Data Engineering and Machine Learning**
+- 🌱 I’m currently learning **Analytics Engineering and Machine Learning**
 
 - 👨‍💻 All of my Tableau projects are available at [https://public.tableau.com/app/profile/niv.levi4310/vizzes](https://public.tableau.com/app/profile/niv.levi4310/vizzes)
 
